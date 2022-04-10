@@ -49,7 +49,7 @@ const Header = (props) => {
             <div className="container">
                 <div className="inner-content">
                     <div className="brand">
-                        <Link to="/">Amazon Clone</Link>
+                        <Link to="/">Amazon</Link>
                     </div>
 
                     <div className="search-bar">
